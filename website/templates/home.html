@@ -1,5 +1,12 @@
-{% extends "base.html" %} {% block title %}Home{% endblock %} {% block content
-%}
+{% extends "base.html" %}
+
+{% block icon %}
+<link rel="icon" type="image/x-icon" href="./../static/images/home.ico" />
+{% endblock %}
+
+{% block title %}Home{% endblock %} 
+
+{% block content%}
 <h1 align="center">Notes</h1>
 <ul class="list-group list-group-flush" id="notes">
   {% for note in user.notes %}
