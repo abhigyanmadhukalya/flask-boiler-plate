@@ -1,6 +1,6 @@
 ![login screen](./images/login-screen.png)
 
-# Flask Note Taking Website Example
+# Flask Web App Template
 
 ## Requirements
 
