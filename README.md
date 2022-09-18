@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- Latest version of [Python](https://https://www.python.org/)
+- Latest version of [Python](https://www.python.org/)
 - flask library
 - Flask-SQLAlchemy library
 - flask-login library
