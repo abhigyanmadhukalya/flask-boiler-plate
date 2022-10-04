@@ -1,18 +1,10 @@
 ![login screen](./images/login-screen.png)
 
-<<<<<<< HEAD
-
 # Flask Note Taking Website Example
 
-||||||| 306588a
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-# Flask Note Taking Website Example
-
-=======
-
-# Flask Web App Template
-
->>>>>>> 62a92c709ce5a093db2f6b872254775a8e64610e
+---
 
 ## Requirements
 
