@@ -1,14 +1,22 @@
 ![login screen](./images/login-screen.png)
 
-# Flask Note Taking Website Example 
+<<<<<<< HEAD
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+# Flask Note Taking Website Example
 
----
+||||||| 306588a
+
+# Flask Note Taking Website Example
+
+=======
+
+# Flask Web App Template
+
+>>>>>>> 62a92c709ce5a093db2f6b872254775a8e64610e
 
 ## Requirements
 
-- Latest version of [Python](https://https://www.python.org/)
+- Latest version of [Python](https://www.python.org/)
 - flask library
 - Flask-SQLAlchemy library
 - flask-login library
